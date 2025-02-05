@@ -1,0 +1,7 @@
+# api参数
+AskAiAPI:
+  BASE_URL: "http://localhost:11434/api/generate"
+  model: "llama3.2"
+
+# 上下文对话配置文件存放路径
+ContextPath: "plugins/AskAi/contexts"

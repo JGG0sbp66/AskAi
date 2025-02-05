@@ -1,0 +1,9 @@
+name: askAi
+version: '1.0-SNAPSHOT'
+main: org.plugin.askAi.AskAiMain
+api-version: '1.20'
+authors: [ JGG0sbp66 ]
+commands:
+  askai:
+    description: '与ai交流'
+    permission: askAi.AskAiMain
